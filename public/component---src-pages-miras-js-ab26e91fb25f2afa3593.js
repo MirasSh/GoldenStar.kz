@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[145],{1685:function(e,t,a){a.r(t);var l=a(7294);t.default=()=>l.createElement(l.Fragment,null,l.createElement("div",null,"  ",l.createElement("p",null,"LOL"),"     "))}}]);
+//# sourceMappingURL=component---src-pages-miras-js-ab26e91fb25f2afa3593.js.map

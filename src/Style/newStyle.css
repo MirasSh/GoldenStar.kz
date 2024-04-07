@@ -1,0 +1,413 @@
+.newcenter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+}
+
+.gridNew {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-bottom: 1%;
+  gap: 1%;
+}
+
+.displayNewFlex {
+  display: flex;
+}
+.padding1 {
+  padding: 55px;
+}
+.newcolor {
+  color: white;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.widht-100 {
+  width: 60%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  align-items: center;
+}
+.width15 {
+  width: 80%;
+}
+
+.container2 {
+  display: flex;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 25px 15px;
+}
+
+.widht-110 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.widht-110:hover img {
+  transform: scale(1.1);
+}
+
+.video80 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1%;
+  margin-bottom: 10%;
+}
+
+.CompantStyl {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.newcenter {
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  width: 80%;
+}
+
+.newBlok img {
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.newBlok:hover img {
+  transform: scale(1.1);
+  box-shadow: 0 0 100px rgba(244, 244, 244, 0.3);
+}
+
+.gridFlex {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.newFlex2 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 70%;
+}
+
+.otzyv {
+  background-color: white;
+  border-radius: 20px;
+  width: 100%;
+  min-height: 13vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.newPaddeing {
+  padding: 10px;
+  font-size: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-bottom: 0;
+}
+
+.marfintopbuttom {
+  padding: 2%;
+}
+
+.Newsize {
+  font-size: 50px;
+}
+.menuNewsize {
+  font-size: 13px;
+}
+
+.newFlexLogo {
+  display: flex;
+  justify-content: center;
+  gap: 5%;
+}
+
+.widht35img {
+  margin-left: auto;
+  padding-top: 20%;
+  width: 75%;
+  display: flex;
+}
+
+.flex-contact {
+  display: grid;
+  background-color: #6c6c6c;
+  border-radius: 50px 50px 0px 0px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  height: 30vh;
+  gap: 2%;
+}
+
+.colornone1 {
+  color: #ffffff00;
+}
+.fontsize35 {
+  font-size: 2.5rem;
+  line-height: 0.5;
+  font-family: "Times New Roman", Times, serif;
+  display: flex;
+  flex-direction: column;
+  padding-top: 11%;
+}
+.time {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2rem;
+  white-space: nowrap;
+}
+.flexNewLogo {
+  display: flex;
+  padding-top: 8%;
+  width: 40%;
+  text-align: center;
+  justify-content: center;
+}
+.widht80newlogo {
+  width: 80%;
+  line-height: 0.9;
+}
+.logoFlex2 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 5%;
+}
+.logo12 {
+  width: 90%;
+}
+
+/* Делаю развертывание картинки  */
+
+.minHeight {
+  min-width: 70vw;
+}
+.minHeight2 {
+  max-width: 60vw;
+}
+
+.newFlex-blok1 {
+  display: flex;
+}
+.textDescription {
+  font-size: 1rem;
+  color: white;
+  padding: 10% 0% 10px 15px;
+  position: relative;
+  z-index: 1;
+}
+
+.ChapterText {
+  position: relative;
+  z-index: 1;
+  color: white;
+}
+
+.newFlex-blok1 {
+  position: relative;
+}
+
+.gradientOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    rgb(0 0 0 / 97%) 23.1%,
+    rgb(37 37 37 / 24%) 76.9%,
+    rgb(0 0 0 / 9%) 80%,
+    rgb(0 0 0 / 0%) 85%,
+    rgba(0, 0, 0, 0) 100%
+  );
+}
+
+.image-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.newpositionRel {
+  position: relative;
+  z-index: 1;
+}
+
+.padding5 {
+  padding: 5%;
+  font-size: 1.5rem;
+}
+
+.newButton {
+  width: 60%;
+  margin: 10% 5%;
+  padding: 7%;
+  border-radius: 15px;
+  height: 7%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+}
+
+.newButton:hover {
+  transform: scale(1.1);
+  background-color: rgb(82, 73, 73);
+}
+
+/* Основные стили кода О нас  */
+
+.newTextAbout {
+  color: white;
+  font-size: 3rem;
+}
+.topNewAbout {
+  margin-top: 5%;
+}
+.newTextAlignAbout {
+  text-align: center;
+  font-weight: 600;
+}
+
+.backgroundWhite {
+  background-color: #ffffff7a;
+}
+.width10 {
+  width: 60%;
+}
+
+.newFlexAbout {
+  display: flex;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.About60 {
+  width: 80%;
+}
+.About40 {
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.flextImageAbout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.newFlex3 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.none1 {
+  width: 80%;
+  height: 50vh;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+
+.aboutButtom {
+  margin-bottom: 5%;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+}
+
+.newFontSize1 {
+  font-size: 1rem;
+}
+
+.newFontSize2 {
+  font-size: 1.3rem;
+}
+
+.bolttext {
+  font-weight: 600;
+}
+.styleUinew {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 5%;
+}
+
+.listNone {
+  list-style-type: none;
+}
+
+.newCenterCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 0;
+}
+
+#One,
+#two,
+#three {
+  transition: background-color 0.3s ease;
+}
+#One:hover {
+  background-color: #767575;
+}
+
+#two {
+  transition: background-color 0.3s ease;
+}
+#two:hover {
+  background-color: #767575;
+}
+
+#three {
+  transition: background-color 0.3s ease;
+}
+#three:hover {
+  background-color: #767575;
+}
+
+#textFooter {
+  text-align: center;
+  color: white;
+  font-size: 2.5rem;
+  padding-bottom: 5%;
+}
+
+.text-color-messege3 {
+  color: white;
+  margin-bottom: 5%;
+  text-decoration: none;
+  font-size: 1rem;
+  text-align: start;
+}
+
+.font18 {
+  font-size: 1.8rem;
+}
+
+.frame1{
+  width: 100%;
+  height: 100%;
+}
+
+.newGridFlex{
+  display: flex;
+  width: 100%;
+  margin-bottom: 10%;
+  min-height: 29vh;
+}

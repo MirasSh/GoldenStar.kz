@@ -1,0 +1,172 @@
+@media only screen and (max-width: 600px) {
+    .text-color-messege2{
+        font-size: 1rem;
+        white-space: nowrap;
+        margin-top: 20%;
+    }
+    .About40{
+      display: none;
+    }
+    .rem07{
+      font-size: 0.8rem;
+    }
+    .button1{
+      padding: 5px;
+      margin-bottom: 15%;
+      font-size: 0.7rem;
+    }
+    #textFooter {
+        font-size: 1rem;
+        padding: 0;
+        margin-top: 5%;
+    }
+    .flex-contact{
+      border-radius: 10px 10px 0px 0px;
+    }
+    .font18{
+        font-size: 0.5rem;
+    }
+    .width15{
+      width: 100%;
+    }
+    .flex-contact{
+        height: 10vh;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .fontsize35{
+        padding-top: 0;
+    }
+    .text-color-messege3{
+        font-size: 0.5rem;
+        margin: 5%;
+    }
+    .time{
+        font-size: 0.5rem;
+    }
+    .widht80newlogo{
+        line-height: 0;
+        width: 100%;
+    }
+    .flexNewLogo{
+        padding: 0;
+    }
+    .logoFlex2{
+        margin: 0;
+    }
+    .padding5{
+      font-size: 1rem;
+    }
+    .textDescription{
+      font-size: 0.7rem;
+      padding: 2% 0% 10px 15px;
+    }
+    .gradientOverlay{
+      display: none;
+    }.minHeight2 {
+      max-width: 92vw;
+      margin-top: -200%;
+    }
+    .newButton{
+      font-size: 0.8rem;
+      margin: 0;
+      padding: 4% 0;    
+    }
+    .TopMinus{
+      margin-top: 70%;
+    }
+    .minHeight{
+      max-width: 45vh;
+    }
+    .newFlexAbout{
+      flex-direction: column;
+      width: 100%;
+    }
+    .About60{
+      width: 100%;
+    }
+    .newFontSize1{
+      font-size: 0.5rem;
+    }
+    .newFontSize2{
+      font-size: 1rem;
+    }
+
+}
+@media only screen and (max-width: 782px) {
+  .none11 {
+    display: none;
+  }
+  .wiaht-40 {
+    width: 60%;
+  }
+  .hero_area {
+    min-height: 10vh;
+  }
+  .text {
+    font-size: 1.5rem;
+    margin-top: 10%;
+  }
+  .gridFlex {
+    display: flex;
+    padding: 0;
+  }
+  .padding1{
+    padding: 0;
+    font-size: 1rem;
+    margin-top: 25%;
+  }
+  .newPaddeing{
+    font-size: 1rem;
+    padding: 0;
+  }
+  .Newsize{
+    font-size: 2rem;
+    margin: 0;
+  }
+  .otzyv{
+    min-height: 10vh;
+  }
+  .newFlex2{
+    margin: 10%;
+  }
+  .newFlex-blok1{
+    display: block;
+  }
+}
+.text-color-messege3 a{
+  color: white;
+}
+.text-color-messege3 a:hover{
+  color: black;
+}
+
+@media only screen and (max-width: 1260px) {
+  .video80{
+    grid-template-columns: 1fr 1fr;
+    margin-bottom:5% ;
+  }
+  .newGridFlex{
+    margin-bottom: 5%;
+  }
+}
+
+@media only screen and (max-width: 867px) {
+  .video80{
+    grid-template-columns: 1fr;
+    margin-bottom:0% ;
+  }
+  .newGridFlex{
+    margin-bottom: 0;
+  }
+  .map2{
+    margin-top: 70%;
+  }
+}
+.text {
+  letter-spacing: 1px; 
+}
+
+.small-space {
+  letter-spacing: -5px;
+}
